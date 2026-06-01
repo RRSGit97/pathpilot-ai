@@ -1,0 +1,25 @@
+[tool.pytest.ini_options]
+# Root directory for test discovery
+testpaths = ["tests"]
+
+# Additional markers
+addopts = [
+    "-v",
+    "--tb=short",
+    "--strict-markers",
+    "-p", "no:warnings",
+]
+
+# Markers used in the PathPilot test suite
+markers = [
+    "slow: marks tests that do integration work (deselect with '-m not slow')",
+    "llm: marks tests that call live LLM APIs (deselect with '-m not llm')",
+    "ui: marks Streamlit smoke tests (deselect with '-m not ui')",
+    "storage: marks SQLite storage tests",
+]
+
+# Environment variables for tests
+env = [
+    "VECTOR_STORE_ENABLED=false",
+    "OPENAI_API_KEY=test-key-not-real",
+]

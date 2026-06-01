@@ -1,0 +1,44 @@
+[
+  {
+    "title": "LangGraph Academy: Building Structured Agent Workflows",
+    "url": "https://academy.langchain.com/courses/langgraph",
+    "type": "video_tutorial",
+    "skill_covered": "LangGraph / Multi-Agent Systems",
+    "description": "The official course for learning LangGraph. Covers state schemas, node routing, conditional edges, persistence checkpointers, and handling human-in-the-loop approvals."
+  },
+  {
+    "title": "Qdrant Vector Database Boot Camp",
+    "url": "https://qdrant.tech/documentation/tutorials/",
+    "type": "project_based",
+    "skill_covered": "Vector Search & Retrieval Optimization",
+    "description": "Comprehensive guide on vector search mechanics, distance metrics, payloads, and implementing filters and hybrid search using Qdrant."
+  },
+  {
+    "title": "Pydantic v2: Data Validation & Structured Output for LLMs",
+    "url": "https://docs.pydantic.dev/latest/",
+    "type": "theoretical",
+    "skill_covered": "Pydantic & Schema Validation",
+    "description": "Official documentation and guides on Pydantic v2. Focuses on field validation, custom serialization, and structured outputs from LLMs using JSON Schemas."
+  },
+  {
+    "title": "LLM Evaluation and Guardrails (Ragas & DeepEval)",
+    "url": "https://docs.ragas.io/en/stable/",
+    "type": "mixed",
+    "skill_covered": "LLM Evaluation & Guardrails",
+    "description": "A guide on implementing deterministic and model-graded evaluations for RAG pipelines, checking correctness, faithfulness, and answer relevance."
+  },
+  {
+    "title": "Dockerizing Python Microservices with FastAPI",
+    "url": "https://fastapi.tiangolo.com/deployment/docker/",
+    "type": "project_based",
+    "skill_covered": "Deployment & Microservices",
+    "description": "Hands-on walkthrough for package management, writing multi-stage Dockerfiles, caching dependency layers, and launching FastAPI endpoints in containerized settings."
+  },
+  {
+    "title": "Advanced Streamlit: Custom Components and Session States",
+    "url": "https://docs.streamlit.io/develop/api-reference/session-state",
+    "type": "mixed",
+    "skill_covered": "Streamlit & Interactive Dashboards",
+    "description": "Official guides explaining session state synchronization, form submit workflows, reruns, and layout customization for building professional developer tooling."
+  }
+]

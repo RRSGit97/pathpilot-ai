@@ -1,0 +1,23 @@
+{
+  "name": "Alex Mercer",
+  "current_skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "NumPy",
+    "Scikit-Learn",
+    "Git",
+    "Docker",
+    "FastAPI"
+  ],
+  "prior_projects": "Built a basic Retrieval-Augmented Generation (RAG) prototype using LangChain, ChromaDB, and OpenAI's API. It allows users to upload PDF documents, splits the text into chunks, indexes them, and answers questions using semantic search and GPT-3.5. Also built a data analysis dashboard in Streamlit to visualize sales trends.",
+  "target_roles": [
+    "AI Engineer",
+    "Applied AI Engineer",
+    "Machine Learning Engineer"
+  ],
+  "weekly_hours_available": 15,
+  "learning_style": "project_based",
+  "pain_points": "I struggle to transition from simple toy prototypes to production-grade agentic workflows. I have no experience with graph-based orchestrators like LangGraph, multi-agent state management, or custom routing logic. I also lack hands-on experience with vector database optimization (like Qdrant) and LLM evaluation frameworks.",
+  "raw_profile_text": "Name: Alex Mercer\n\nBackground:\nI have 2 years of experience as a junior software engineer and data analyst using Python, SQL, and pandas. I know Git and basic Docker. Recently, I built a Retrieval-Augmented Generation (RAG) system using LangChain, ChromaDB, and OpenAI API that indexes internal PDF manuals and lets users query them in a simple UI. It works fine for single queries but fails on multi-step reasoning or conversational memory.\n\nGoals and Target Roles:\nI want to transition to a role like AI Engineer, Applied AI Engineer, or ML Engineer. I want to build production-grade applications that use multi-agent systems, graph architectures, and structured memory.\n\nLearning Preferences and Constraints:\n- Weekly availability: 15 hours\n- Learning style: Project-based (I learn best by building hands-on applications)\n\nPain Points:\nI struggle to understand and build advanced agentic systems (e.g. multi-agent coordination, routing, memory persistence). I am comfortable with basic Python and RAG, but I don't know how to use LangGraph or optimize vector searches in Qdrant, and I don't know how to run structured LLM evaluations."
+}

@@ -1,0 +1,1 @@
+# Deterministic logic helper functions

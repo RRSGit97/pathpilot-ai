@@ -1,0 +1,31 @@
+# Core dependencies
+streamlit>=1.35
+langgraph>=0.2
+langgraph-checkpoint-sqlite>=2.0
+langchain>=0.2
+langchain-core>=0.2
+langchain-openai>=0.1
+pydantic>=2.7
+pydantic-settings>=2.3
+python-dotenv>=1.0
+pandas>=2.0
+
+# Optional LLM providers (install the one you use)
+# langchain-google-genai>=1.0
+# langchain-anthropic>=0.1
+
+# Optional dependencies (vector search)
+qdrant-client>=1.9
+# sentence-transformers>=2.2  # needed if VECTOR_STORE_ENABLED=true
+
+# Resume parsing
+pypdf>=4.0
+python-docx>=1.1
+
+# Utility and robustness
+tiktoken>=0.7
+tenacity>=8.3
+
+# Testing dependencies
+pytest>=8.0
+pytest-cov>=5.0

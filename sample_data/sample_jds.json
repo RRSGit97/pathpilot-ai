@@ -1,0 +1,17 @@
+[
+  {
+    "title": "AI Engineer (Agent Systems)",
+    "company": "CognitiveLabs",
+    "description": "We are seeking an AI Engineer specializing in LangGraph and workflow orchestration. Required skills: Python, LangGraph, Pydantic, SQLite, OpenAI API. Key tools: Qdrant vector database. Project expectations: Build multi-agent routing engines and maintain structured agent memory. Seniority: Mid-level."
+  },
+  {
+    "title": "Machine Learning Engineer (RAG Systems)",
+    "company": "QueryTech",
+    "description": "Join our RAG systems team. Requirements: 3+ years experience with Python, LangChain, vector store adapters, and semantic search. Highly preferred: Qdrant, PostgreSQL, OpenAI embeddings. Project expectations: Deploy scalable document indexers and retrieval filters. Seniority: Senior."
+  },
+  {
+    "title": "Junior AI Solutions Developer",
+    "company": "NextGen AI",
+    "description": "We are looking for a junior developer to build Streamlit prototypes. Skills needed: Python, Streamlit, Git, basic SQL/SQLite. Nice to have: LangChain, Pydantic validation. Project expectations: Create beautiful dashboards and connect to LLM APIs. Seniority: Junior."
+  }
+]

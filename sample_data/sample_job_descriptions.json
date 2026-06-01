@@ -1,0 +1,22 @@
+[
+  {
+    "title": "AI Engineer (Agent Systems)",
+    "company": "CognitiveLabs",
+    "description": "CognitiveLabs is seeking an AI Engineer specializing in LangGraph and workflow orchestration to join our Core Intelligence team.\n\nKey Responsibilities:\n- Build and deploy multi-agent routing engines and structured agent memory modules.\n- Optimize semantic retrieval using Qdrant vector database.\n- Collaborate with developers to build web interfaces in Streamlit for client prototypes.\n\nRequired Skills:\n- Python, FastAPI, and Pydantic validation\n- Hands-on experience with LangGraph or similar graph-based agent frameworks\n- Custom context memory architectures and persistent databases (SQLite/PostgreSQL)\n- Semantic search and vector embeddings optimization (specifically Qdrant or Pgvector)\n\nNice-to-have:\n- Docker containerization and cloud deployments (AWS/GCP)\n- Experience with LLM evaluation packages like Ragas or TruLens"
+  },
+  {
+    "title": "Applied AI Engineer",
+    "company": "NextGen Solutions",
+    "description": "We are looking for an Applied AI Engineer to join our rapid-prototyping and engineering group. You will convert research models into reliable enterprise products.\n\nResponsibilities:\n- Design advanced Retrieval-Augmented Generation (RAG) structures using hybrid search and reranking.\n- Build robust APIs to expose model capabilities safely using FastAPI and Pydantic.\n- Set up structured workflows to orchestrate LLM calls and fallback logic.\n\nRequirements:\n- 2+ years of software engineering experience with Python and relational databases (SQL)\n- Experience with LangChain, LangGraph, and vector databases\n- Familiarity with unit testing and CI/CD pipelines\n- Ability to dedicate and self-manage development tasks under tight deadlines"
+  },
+  {
+    "title": "Machine Learning Engineer (RAG Systems)",
+    "company": "QueryTech",
+    "description": "QueryTech is searching for a Machine Learning Engineer specializing in RAG architectures to scale our document search tools.\n\nKey Responsibilities:\n- Build scalable document parser pipelines and indexers.\n- Fine-tune ML models and optimize embeddings models for specific domain searches.\n- Perform vector database administration, database indexing, and query speedups.\n\nRequirements:\n- 3+ years experience with Python, Pandas, NumPy, Scikit-Learn, and Git workflows\n- Hands-on deployment of production-grade Qdrant, Pinecone, or Milvus databases\n- Good understanding of dockerized microservices and automated integration tests\n- Knowledge of LLM guardrails, Prompt engineering, and prompt routing logic"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Pulse Analytics",
+    "description": "Pulse Analytics is seeking a Data Scientist to help turn complex dataset findings into actionable generative AI tools.\n\nKey Responsibilities:\n- Run exploratory data analysis (EDA) and train traditional ML models (Scikit-Learn, XGBoost).\n- Write clean data pipelines using SQL, Pandas, and NumPy.\n- Build internal interactive web applications using Streamlit to demo statistical models.\n\nQualifications:\n- Strong analytical skills with Python and SQL\n- Basic familiarity with LLMs, prompt template engineering, and OpenAI APIs\n- Git version control and collaborative coding practices"
+  }
+]
